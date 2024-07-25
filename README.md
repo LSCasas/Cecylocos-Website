@@ -1,1 +1,1 @@
-# dorilocos es lo mejor
+# Cecylocos is a school project aimed at designing a webpage for a 'dorilocos' design.
