@@ -6,6 +6,7 @@ I created the "Cecy Locos" website in June 2022 while studying at CECyTEM. Cecy 
 - **Responsive Design:** Utilizes responsive styles (responsive.css) to ensure compatibility across devices..
 - **Custom Styling:** Includes personalized styles (style.css) for a unique user experience..
 - **Bootstrap Integration:**  Leverages Bootstrap for a modern and grid-based layout..
+- **Collaborative work:** using Critical Path as a methodology for the organization.
 
 
 ## Getting Started
