@@ -1,6 +1,6 @@
 # Cecylocos - Website
 
-I created the "Cecy Locos" website in June 2022 while studying at CECyTEM. Cecy Locos is a website dedicated to promoting its experience in snack preparation. It provides information about its locations, contact details, and surveys to interact with its customers. I used HTML and CSS, improving my understanding of these technologies.
+I created the "Cecy Locos" website in June 2022 while studying at CECyTEM Tultepc. Cecy Locos is a website dedicated to promoting its experience in snack preparation. It provides information about its locations, contact details, and surveys to interact with its customers. I used HTML and CSS, improving my understanding of these technologies.
 ## Features
 
 - **Responsive Design:** Utilizes responsive styles (responsive.css) to ensure compatibility across devices..
